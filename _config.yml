@@ -5,8 +5,8 @@ permalink:        pretty
 title:            Relojban
 tagline:          'A machine-parsable constructed language based on Lojban'
 description:      'A machine-parsable constructed language based on Lojban'
-url:              http://relojban.github.io
-baseurl:          /
+url:              'http://relojban.github.io'
+baseurl:          ''
 
 # Custom vars
 github:
