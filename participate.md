@@ -4,8 +4,6 @@ title: Participate
 order: 4
 ---
 
-<font color="red">This site is currently a work in progress.</font>
-
 ## GitHub
 
 Relojban is an open source project maintained by a community of volunteers. The [Relojban GitHub project](https://github.com/relojban/) is the central point for all development activities.

@@ -4,8 +4,6 @@ title: Tour
 order: 2
 ---
 
-<font color="red">This site is currently a work in progress.</font>
-
 This page gives a two-minute tour of the main features of Relojban and of its parent language Lojban, for those readers that are not familiar with either. If the descriptions sound like a marketing pitch without a lot of substance, do not worry: all the topics below (and much more) are explained in excruciating detail in the official material available [here](/learn/).
 
 ## Phonemic Ortography
@@ -46,7 +44,7 @@ There is also a strict correspondence between the spoken language and the writte
 
 ## "Logical" Sentences
 
-In English as in many languages, there are categories such as "subject", "verb", "object", "adjective". In the sentence "I give an apple to you", there is a subject ("I"), a verb ("give"), a direct object ("an apple"), and an indirect object ("you").
+In English as in most languages, there are categories such as "subject", "verb", "object", "adjective". In the sentence "I give an apple to you", there is a subject ("I"), a verb ("give"), a direct object ("an apple"), and an indirect object ("you").
 
 In Relojban, there is nothing like that. Instead there is the concept of _bridi_, which in its basic form states that a certain relationship (called _selbri_) applies to some arguments (called _sumti_). The verb "to give" is expressed in Relojban by the selbri `dunda`, which is defined as
 
@@ -82,7 +80,7 @@ In addition, Relojban has other small words, similar to attitudinals, that are v
 
 ## A Powerful Tense System
 
-Tenses are optional in Relojban. There is no need to add information in a sentence about whether it is in the past, in the present or in the future, if context is sufficient to get the message across. That said, if you take the time to learn the extensive tense system of Relojban, you will be able to express very efficiently subtle nuances on how events take place in space-time. The compact sentence `mi pu dihi zaho gunka`, for instance, means "I regularly kept on working too long".
+Tenses are optional in Relojban. There is no need to add information in a sentence about whether it is in the past, in the present or in the future, if context is sufficient to get the message across. That said, if you take the time to learn the extensive tense system of Relojban, you will be able to express very efficiently subtle nuances on how events take place in space-time. The compact sentence `mi puza dihi zaho gunka`, for instance, means "Some time ago, I regularly kept on working too long".
 
 ## Cultural Neutrality
 
